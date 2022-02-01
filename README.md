@@ -1,4 +1,4 @@
-# Easy Kerystore Creator
+# Easy Keystore Creator
 Easy Kerystore Creator is a simple tool to help you to not have to remember how to create Upload Signing Keys for Android apps on Google Play
 
 Just use:
