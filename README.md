@@ -3,7 +3,7 @@ Easy Kerystore Creator is a simple tool to help you to not have to remember how 
 
 Just use:
 
-```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/App2Sales/easy-keystore-creator/master/create_android_key.sh)" _ myalias mypassword```
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/App2Sales/easy-keystore-creator/master/create_android_key.sh)" _ myalias mypassword ./mykeys```
 
 and be happy!
 
